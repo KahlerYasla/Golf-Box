@@ -1,0 +1,3 @@
+vuruş mekaniği:
+    dokunma ve çekme ile golfStick'de gerilme ve gösterge okları
+    dokunma yönünde ve çekme miktarınca topa force uygulama
