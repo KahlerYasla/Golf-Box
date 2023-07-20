@@ -2,7 +2,8 @@
 
 # Unity Ball Game Project
 
-This repository contains a simple ball game project built with Unity. The game involves controlling a ball using a stick to navigate through different stages. The project consists of several scripts and game objects to handle various functionalities.
+Firstly I want to note that that is one of my first projects. There is no managers, a clean coding mentality and project file structuring :D
+This repository contains a simple ball game project built with Unity. The game involves controlling a ball using a stick to navigate through different stages. The project consists of several scripts and game objects to handle various functionalities. 
 
 ## How to Play
 
